@@ -1,1 +1,1 @@
-This site is a sampole for students
+This site is a sample for students
